@@ -1,3 +1,5 @@
 # Digital-Image-Processing-Tasks-Part1
 
-Code Containes Otsu Binarization, Morphologcal oprations on Images.See Assignment.pdf
+Code Containes Histogram computation from scratch, Otsu Binarization, Morphologcal oprations, Connected Component finding
+see task1.pdf
+
